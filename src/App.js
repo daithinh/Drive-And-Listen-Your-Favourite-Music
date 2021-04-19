@@ -1,6 +1,9 @@
 import './App.css';
-import MenuComponent from './componenets/MenuComponent';
 import VideoComponent from './componenets/VideoComponent';
+import MenuComponent from './componenets/MenuComponent'
+
+
+
 function App() {
 
 var data=[
@@ -24,8 +27,9 @@ var data=[
 
     
   <>
-  <MenuComponent/>
+   
   <VideoComponent videoData={data[0]} />
+  <MenuComponent/>
   </>
   );
 }

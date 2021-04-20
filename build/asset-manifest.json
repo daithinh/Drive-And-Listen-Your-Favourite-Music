@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drive-And-Listen-Your-Favourite-Music/static/css/main.f8799446.chunk.css",
+    "main.js": "/Drive-And-Listen-Your-Favourite-Music/static/js/main.e597c63b.chunk.js",
+    "main.js.map": "/Drive-And-Listen-Your-Favourite-Music/static/js/main.e597c63b.chunk.js.map",
+    "runtime-main.js": "/Drive-And-Listen-Your-Favourite-Music/static/js/runtime-main.8cd04edd.js",
+    "runtime-main.js.map": "/Drive-And-Listen-Your-Favourite-Music/static/js/runtime-main.8cd04edd.js.map",
+    "static/js/2.e9ee2cad.chunk.js": "/Drive-And-Listen-Your-Favourite-Music/static/js/2.e9ee2cad.chunk.js",
+    "static/js/2.e9ee2cad.chunk.js.map": "/Drive-And-Listen-Your-Favourite-Music/static/js/2.e9ee2cad.chunk.js.map",
+    "static/js/3.b5a8d7b3.chunk.js": "/Drive-And-Listen-Your-Favourite-Music/static/js/3.b5a8d7b3.chunk.js",
+    "static/js/3.b5a8d7b3.chunk.js.map": "/Drive-And-Listen-Your-Favourite-Music/static/js/3.b5a8d7b3.chunk.js.map",
+    "index.html": "/Drive-And-Listen-Your-Favourite-Music/index.html",
+    "static/css/main.f8799446.chunk.css.map": "/Drive-And-Listen-Your-Favourite-Music/static/css/main.f8799446.chunk.css.map",
+    "static/js/2.e9ee2cad.chunk.js.LICENSE.txt": "/Drive-And-Listen-Your-Favourite-Music/static/js/2.e9ee2cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cd04edd.js",
+    "static/js/2.e9ee2cad.chunk.js",
+    "static/css/main.f8799446.chunk.css",
+    "static/js/main.e597c63b.chunk.js"
+  ]
+}

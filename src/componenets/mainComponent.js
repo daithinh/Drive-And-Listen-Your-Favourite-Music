@@ -3,11 +3,11 @@ import MenuComponent from './MenuComponent'
 import VideoComponent from './VideoComponent'
 
 export default function MainComponent(props) {
-    console.log(props.videoData[1])
+var val=1
     return (
         <div>
-            <MenuComponent videoData={props.videoData[1]}/>
-            <VideoComponent videoData={props.videoData[1]}/>
+            <MenuComponent  videoData={props.data} iterationIndex={val}/>
+            <VideoComponent videoData={props.data} iterationIndex={val}/>
         </div>
     )
 }

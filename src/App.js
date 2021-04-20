@@ -1,5 +1,5 @@
 import './App.css';
-import VideoComponent from './componenets/VideoComponent';
+import MainComponent from './componenets/mainComponent';
 
 
 
@@ -29,7 +29,7 @@ var data=[
     
   <>
    
-  <VideoComponent videoData={data[1]} />
+  <MainComponent videoData={data}/>
   </>
   );
 }

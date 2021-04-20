@@ -7,7 +7,7 @@ var val=1
     return (
         <div>
             <MenuComponent  videoData={props.data} iterationIndex={val}/>
-            <VideoComponent videoData={props.data} iterationIndex={val}/>
+            <VideoComponent videoData={props.data} iterationIndex={val} speed={val}/>
         </div>
     )
 }

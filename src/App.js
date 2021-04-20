@@ -9,11 +9,11 @@ function App() {
 
   return (
 
-    
-  <>
-   
-  <MainComponent data={data}/>
-  </>
+
+    <>
+
+      <MainComponent data={data} />
+    </>
   );
 }
 

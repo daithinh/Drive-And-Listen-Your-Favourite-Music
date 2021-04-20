@@ -24,9 +24,8 @@ video {
   padding-right: 5px;
 }
 select{
-  width: 100%;
-height: auto;
-color: black !important;
+   width: 100%;
+   height: auto;
 }
 .text-bold{
   font-weight: bold;
@@ -38,4 +37,39 @@ font-weight: 400;
 }
 a{
   color: white;
+}
+.text-white{
+  color: white;
+}
+.text-black{
+  color: black;
+}
+.solid {border-style: solid;}
+
+.card-header
+{
+  text-align: center;
+  color: white;
+  padding: 5px;
+  padding-bottom: 10px;
+}
+.card-body
+{
+  color: white;
+  padding: 5px;
+  padding-bottom: 10px;
+
+}
+input{
+  width: 95%;
+  height: 20px;
+  padding:5px;
+}
+iframe{
+  padding-top: 10px;
+}
+.card{
+  border: white;
+  border-width: 2px;
+  margin-top: 10px;
 }
